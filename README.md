@@ -1,6 +1,6 @@
-# zSOM
+# PhotSOM
 I'll update this as I go along.
 
-git pull https://github.com/derkwilson/zSOM
+git pull https://github.com/derkwilson/PhotSOM
 
 pip install zSOM
